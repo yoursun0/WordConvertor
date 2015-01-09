@@ -1,0 +1,1842 @@
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                    Page: 1 
+11:15:25 16/01/2014
+
+Q1U                       Phone Number
+
+Q2ET
+Q3ET
+
+Q4U                       Interviewer.
+
+Q5                        A1. Number of HHs
+C0                        None
+C<01>                     <01>
+1/9
+1/9
+C99                       D.K./Refused
+
+Q6         5              A2a.
+
+Q7         5              A2b.
+
+Q8                        A3. Sex & Age
+C1                        Male: 3-11 (1)
+C2                        Male: 12-14 (2)
+C3                        Male: 15-19 (3)
+C4                        Male: 20-24 (4)
+C5                        Male: 25-29 (5)
+C6                        Male: 30-34 (6)
+C7                        Male: 35-39 (7)
+C8                        Male: 40-49 (8)
+C9                        Male: 50-59 (9)
+C10                       Male: 60-64 (10)
+C11                       Male: 65+ (11)
+C14                       Female: 3-11 (14)
+C15                       Female: 12-14 (15)
+C16                       Female: 15-19 (16)
+C17                       Female: 20-24 (17)
+C18                       Female: 25-29 (18)
+C19                       Female: 30-34 (19)
+C20                       Female: 35-39 (20)
+C21                       Female: 40-49 (21)
+C22                       Female: 50-59 (22)
+C23                       Female: 60-64 (23)
+C24                       Female: 65+ (24)
+
+Q9                        A4.
+C1                        Kennedy Town
+C2                        Hong Kong University
+C3                        Sai Ying Pun
+C4                        Sheung Wan
+C5                        Central
+C6                        Mid Levels
+C7                        Peak
+C8                        Admiralty
+C9                        HK Convention & Exhibition Centre
+C10                       Wan Chai
+C11                       Causeway Bay
+C12                       Tin Hau
+C13                       Happy Valley
+C14                       Fortress Hill
+C15                       North Point
+C16                       Braemar Hill
+C17                       Quarry Bay
+C18                       Tai Koo
+C19                       Sai Wan Ho
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 2 
+11:15:25 16/01/2014
+
+C20                       Yiu Tung
+C21                       Shau Kei Wan
+C22                       Heng Fa Chuen
+C23                       Chai Wan
+C24                       Siu Sai Wan
+C25                       South District (East)
+C26                       South District (West)
+C27                       South District (Central)
+C28                       Mount Parker & Shek O
+C51                       Hung Hom Bay & Hung Hom Station
+C52                       Hung Hom/ Whampoa
+C53                       Ho Man Tin
+C54                       Prince Edward Road & Waterloo Road Surrounding Area
+C55                       To Kwa Wan & Ma Tau Wai
+C56                       San Po Kong & Kowloon City
+C57                       Kai Tak
+C58                       Kowloon Tong
+C59                       Lok Fu
+C70                       Yau Tong
+C71                       Tak Tin & Hing Tin
+C72                       Lam Tin
+C73                       Kwun Tong
+C74                       Sau Mau Ping
+C75                       Ngau Tau Kok
+C76                       Lok Wah
+C77                       Shun Lee & Shun Tin
+C78                       Kowloon Bay
+C79                       Kai Yip & Richland Garden
+C80                       Choi Hung
+C81                       Tsz Wan Shan
+C82                       Diamond Hill
+C83                       Wong Tai Sin
+C84                       Mei Foo
+C85                       Lai Chi Kok
+C86                       Beacon Height/ Chak On
+C87                       Cheung Sha Wan
+C88                       Nam Cheong
+C89                       Sham Shui Po
+C90                       Shek Kip Mei
+C91                       Mongkok
+C92                       Mongkok East
+C93                       Yau Ma Tei
+C94                       Kowloon Station (West Kowloon)
+C95                       Jordan
+C96                       Tsim Sha Tsui/Tsim Sha Tsui East
+C97                       Olympic
+C98                       Prince Edward
+C99                       Austin
+C101                      Tai Wo Hau
+C102                      Kwai Shing & Rivera Garden
+C103                      Kwai Hing
+C104                      Kwai Fong
+C105                      Shek Lei, Shek Yam & On Yam
+C106                      Lai Yiu & Wonderland Villas
+C107                      Lai King
+C108                      Kau Wa Keng/ Margaret Hospital
+C109                      Containeer Terminal
+C110                      Tsuen Wan Town Centre
+C111                      Tsuen Wan West
+C112                      Sam Tung Uk & Shek Wai Kok
+C113                      Allway Garden/ Belvedere Garden
+C114                      Tsing Yi (South)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 3 
+11:15:25 16/01/2014
+
+C115                      Tsing Yi (North)
+C116                      Castle Peak Road Surrounding Areas
+C117                      Kam Sheung Road
+C118                      Shap Pat Heung/Au Tau/Ho Hok Shan
+C119                      Yuen Long
+C120                      Tai Tong
+C121                      Yuen Long Industrial Estate
+C122                      Long Ping
+C123                      Ma Tin Tsuen/Lung Tin Tsuen/Lam Hau Wai/Shan Ha Tsuen
+C124                      Tai Kei Leng/Ma Tin Pok
+C125                      Tin Heng/Tin Yat/Tin Sau
+C126                      Tin Yuet/Tin Fu
+C127                      Ginza/Tin Wu/Tin Tsz/Tin Wing
+C128                      Chung Fu/Chestwood/Tin Shui
+C129                      Locwood/Tin Yiu
+C130                      Tin Shui Wai
+C131                      Hung Shui Kiu
+C132                      Lau Fau Shan
+C133                      Chung Uk Tsuen
+C134                      Lam Tei/Nai Wai
+C135                      Siu Hong/Kei Lun/Ching Chung
+C136                      Kin Sang/Tin King
+C137                      Por Lo Shan
+C138                      Tai Hing North/Shek Pai
+C139                      Ming Kum/Tsing Wun
+C140                      Tuen Mun
+C141                      On Ting/Siu Lun
+C142                      Sam Shing
+C143                      Tuen Mun Swimming Pool/Goodview Garden/Yau Oi
+C144                      Ferry Pier Terminus/Siu Hei/Melody Garden
+C145                      Butterfly/LRT Depot/Lung Mun/Tsing Shan Tsuen
+C146                      Pillar point/Lung Kwu Ta/Pak Nai
+C151                      Tiu Keng Leng
+C152                      Tai Siu Chik Sha (Area 86)
+C153                      Hang Hau
+C154                      Sheung Tak & Kwong Ming
+C155                      Po Lam
+C156                      Tsui Lam & Hong King
+C157                      Tung Chung
+C158                      Chek Lap Kok/Airport/Asia World-Expo
+C159                      Sunny Bay/Disneyland
+C160                      Sai Kung
+C161                      Pat sin Leng Country Park
+C162                      Wu Kai Sha
+C163                      Ma On Shan
+C164                      Heng On
+C165                      Tai Shui Hang
+C166                      University
+C167                      Racecourse/Fo Tan
+C168                      Shek Mun
+C169                      Lion Rock Country Park
+C170                      City One
+C171                      Sha Tin Wai
+C172                      Sha Tin
+C173                      Sui Wo Court/Greenwood Terrace/Garden Villa
+C174                      Che Kung Temple
+C175                      Tai Wai
+C176                      Sha Tin Heights/Pak Shek/Hin Tin
+C177                      Tai Po Country Park
+C178                      Tai Mo Shan
+C179                      Tai Po Industrial Estate
+C180                      Tai Po Market
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 4 
+11:15:25 16/01/2014
+
+C181                      Tai Wo
+C182                      Wo Hop Shek
+C183                      Fanling
+C184                      Lung Yeuk Tau
+C185                      Wo Keng shan
+C186                      Nan Sang Wai
+C187                      Sheung Shui
+C188                      Ki lun shan
+C189                      Kwu Tung
+C190                      Lok Ma Chau
+C191                      Lo Wu
+C192                      Lantau Island - Others
+C193                      Other Outlying Islands
+C194                      Ngong Ping/Lantau Peak/ Big Buddha
+C201                      Macau
+C202                      Shen Zhen
+C203                      Guong Dong Province
+C204                      Other Mainland
+
+Q10                       A4. Quota by District
+C1                        Central & Western (1)
+C2                        Wanchai (2)
+C3                        North Point (3)
+C4                        Eastern (4)
+C5                        Southern (5)
+C6                        Kowloon City (6)
+C7                        Kwun Tong I (7)
+C8                        Kwun tong II (8)
+C9                        Wong Tai Sin (9)
+C10                       Sham Shui Po (10)
+C11                       Yau Tsim Mong (11)
+C12                       Kwai Chung (12)
+C13                       Tsuen Wan (13)
+C14                       Tsing Yi (14)
+C15                       Tuen Mun (15)
+C16                       Yuen Long (16)
+C17                       Tin Shui wai (17)
+C18                       Tsueng Kwan O (18)
+C19                       North Lantau (19)
+C20                       Shatin (20)
+C21                       Ma On Shan (21)
+C22                       Tai Po (22)
+C23                       Fanling (23)
+C24                       Sheung Shui (24)
+C25                       Sai Kung (25)
+C26                       Islands (26)
+S1    5                   HK
+S6    11                  KLN
+S12   26                  NT & Rural Areas
+
+Q11ET                     Quota_age
+
+Q12                       A5.
+C1                        Self-owned housing estate
+C2                        Rented housing estate
+C3                        Home Ownership Scheme
+C4                        Rented Home Ownership Scheme
+C5                        Rented private estate
+C6                        Self-owned private estate
+C7                        Provided from company
+C8                        Others
+C9                        Don't know / Refused;L
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 5 
+11:15:25 16/01/2014
+
+
+Q13                       B1. Nearest MTR Station
+C1                        CEN
+C2                        ADM
+C3                        TST
+C4                        JOR
+C5                        YMT
+C6                        MOK
+C7                        SKM
+C8                        KOT
+C9                        LOF
+C10                       WTS
+C11                       DIH
+C12                       CHH
+C13                       KOB
+C14                       NTK
+C15                       KWT
+C16                       PRE
+C17                       SSP
+C18                       CSW
+C19                       LCK
+C20                       MEF
+C21                       LAK
+C22                       KWF
+C23                       KWH
+C24                       TWH
+C25                       TSW
+C26                       SHW
+C27                       WAC
+C28                       CAB
+C29                       TIH
+C30                       FOH
+C31                       NOP
+C32                       QUB
+C33                       TAK
+C34                       SWH
+C35                       SKW
+C36                       HFC
+C37                       CHW
+C38                       LAT
+C39                       HOK
+C40                       KOW
+C41                       OLY
+C42                       TSY
+C43                       TUC
+C44                       AIR
+C48                       YAT
+C49                       TIK
+C50                       TKO
+C51                       HAH
+C52                       POA
+C53                       NAC
+C54                       SUN
+C55                       DIS
+C56                       AWE
+C64                       Hung Hom
+C65                       Mong Kok East
+C67                       Tai Wai
+C68                       Sha Tin
+C69                       Fo Tan
+C70                       Racecourse
+C71                       University
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 6 
+11:15:25 16/01/2014
+
+C72                       Tai Po Market
+C73                       Tai Wo
+C74                       Fanling
+C75                       Sheung Shui
+C76                       Lo Wu
+C78                       Lok Ma Chau
+C80                       East Tsim Sha Tsui
+C96                       Che Kung Temple
+C97                       Sha Tin Wai
+C98                       City One
+C99                       Shek Mum
+C100                      Tai Shui Hang
+C101                      Heng On
+C102                      Ma On Shan
+C103                      Wu Kai Sha
+C114                      Tsuen Wan West
+C115                      Kam Sheung Road
+C116                      Yuen Long
+C117                      Long Ping
+C118                      Tin Shui Wai
+C119                      Siu Hong
+C120                      Tuen Mun
+C999                      Don't know
+
+Q14                       B2.
+C1                        On foot, within 5 minutes
+C2                        On foot, between 6 - 10 minutes
+C3                        On foot, between 11 - 15 minutes
+C4                        On foot, over 15 minutes
+C5                        By mode of transport
+C6                        Don't know the location of the MTR station
+C8                        Ride in by default
+
+Q15                       B3. Learest LR station
+C1                        Shui Pin Wai
+C2                        Fung Nin Road
+C3                        Hong Lok Road
+C4                        Tai Tong Road
+C5                        Yuen Long Terminus
+C11                       Tin Heng/ Wetland Park
+C12                       Tin Sau
+C13                       Tin Yat
+C14                       Tin Fu/ Chung Fu
+C15                       Tin Yuet/ Tin Wing
+C16                       Chestwood
+C17                       Ginza/ Tin Wu/  Tin Tsz
+C18                       Tin Shui/ Locwood
+C19                       Tin Yiu
+C20                       Tin Shui Wai
+C21                       Kei Lun/ Ching Chung/ Kin Sang
+C22                       Siu Hong
+C23                       Tin King/ Leung King/ San Wai
+C24                       Tai Hing (South)/ Tai Hing (North)/ Ngan Wai
+C25                       Affluence/ Tuen Mun Hospital
+C26                       Prime View/ Fung Tei
+C27                       Shek Pai/ Ming Kum
+C28                       Ho Tin
+C29                       Kin On
+C30                       Ho Fuk Tong/ San Hui/ Pui To
+C31                       Tuen Mun/ Town Centre
+C32                       Tsing Wun/ Tsing Shan Tsuen
+C33                       Lung Mun/ LRT Depot
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 7 
+11:15:25 16/01/2014
+
+C34                       Tuen Mun Swimming Pool/ Goodview Garden/ Yau Oi, On Ting, Siu Lun
+C35                       Ferry Pier Terminus/ Siu Hei, Melody Garden, Butterfly
+C36                       Sam Shing Terminus
+C37                       Shan King (South) / Shan King (North)
+C41                       Chung Uk Tsuen/ Nai Wai/ Lam Tei
+C42                       Hung Shui Kiu
+C43                       Tong Fong/ Ping Shan
+C44                       Hang Mei Tsuen
+C99                       D.K.
+
+Q16                       B4.
+C   1/5    14   1
+C6                        Don't know the location of the LRT station
+
+Q17                       B5.
+C0                        None
+C99                       D.K./Refused
+
+Q18U            8         Date of yesterday (not use)
+
+Q<01>ET
+19/238
+
+Q239FM          2         C10a.
+C1                        Impossible to take the MTR (SA only)
+C2                        Arranged by others (SA only)
+C3                        Other direct mode available/ Less interchange if taking other mode
+C4                        Interchange required within stations
+C5                        Insufficient feeder facilities
+C6                        Inconvenient location of MTR stations
+C10                       Not in a hurry
+C11                       MTR is relatively slow/ Shorten journey time if taking other mode
+C12                       Infrequent schedule
+C13                       No overnight service
+C14                       Service hours don't fit my schedule
+C15                       Unsafe
+C18                       Long walk within the MTR system
+C19                       It was very inconvenient to use the entry/exit gate
+C20                       No radio/ TV inside the MTR train
+C29                       No scenery if taking MTR
+C30                       Bus or other mode(s) is more comfortable than the MTR
+C31                       Overcrowded
+C32                       Insufficient seat
+C33                       Poor ventilation/ Better ventilation with other modes
+C37                       Expensive fare
+C40                       Have my own car
+C41                       For working purpose
+C50                       Others
+
+Q240FM          2         C10b.
+C1                        No improvement can convince (SA only)
+C2                        Build new extension
+C3                        Improve feeder service/ Provide free feeder service
+C4                        No need to change to other line
+C5                        Build new entrance/ More station access
+C6                        Build interchange facilities near the MTR station
+C7                        Provide taxi stand near the MTR station
+C8                        Provide park-and-ride facilities
+C11                       Faster speed
+C12                       Increase frequency of service
+C13                       Provide 24-hours service
+C14                       Avoid train service / system failure
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 8 
+11:15:26 16/01/2014
+
+C18                       Narrow down the walking distance between  concourse and platform/ within the station
+C19                       Accept coins payment when boarding the train as bus
+C20                       With radio/ Provide TV program
+C21                       More facilities for disable
+C22                       Provide more passenger lift/ escalator/ speedwalk
+C23                       Increase signage
+C24                       Increase route map in different locations
+C25                       Improve safety facilities
+C26                       Provide toilet
+C30                       Provide more comfortable ride
+C31                       Lessen the level of crowding inside the train
+C32                       Provide more seats
+C33                       Better ventilation
+C37                       Reduce fare
+C38                       With special offer
+C50                       Others
+
+Q241       17             F1.
+Q242       17             F2.
+Q243                      F3.
+C1                        Shenzhen
+C2                        Guangdong
+C3                        Other places of China
+C4                        Refused/D.K.
+Q244                      F4a.
+C99                       D.K.
+C999                      D.K.
+Q245       244            F4b.
+
+Q246ET
+Q247ET
+Q248ET
+Q249ET
+Q250ET
+
+
+Q251                 12   H1.
+C1                        Manager & adminstrator./ Business owner
+C2                        Professional & associate professional
+C3                        Secretarial or clerical related worker
+C4                        Service: police, fireman, waiter, housekeeper
+C5                        Sales worker
+C6                        Production & related blue collar worker
+*C7                        Other blue collar
+C7                        Housewife
+C8                        Student
+C9                        Unemployed
+C10                       Retired
+C11                       Others
+C19                       Refused / Don't know
+
+Q252                      H1a.
+C1                        Every Saturday
+C2                        Once every 2 Saturdays (alternative week)
+C3                        On shift
+C4                        No need to work on Saturday
+C5                        On demand by Company
+C6                        Others
+
+Q253                 10   H2a.
+C1                        1,999 or below
+C2                        2,000 - 3,999
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 9 
+11:15:26 16/01/2014
+
+C3                        4,000 - 5,999
+C4                        6,000 - 7,999
+C5                        8,000 - 9,999
+C6                        10,000 - 14,999
+C7                        15,000 - 19,999
+C8                        20,000 - 24,999
+C9                        25,000 - 29,999
+C10                       30,000 - 39,999
+C11                       40,000 - 59,999
+C12                       60,000 or above
+C19                       Refused/ DK
+
+Q254                      H2b.
+C1                        No income
+C2                        999 or below
+C3                        1,000 - 1,999
+C4                        2,000 - 3,999
+C5                        4,000 - 5,999
+C6                        6,000 - 7,999
+C7                        8,000 - 9,999
+C8                        10,000 - 14,999
+C9                        15,000 - 19,999
+C10                       20,000 - 24,999
+C11                       25,000 - 39,999
+C12                       40,000 - 59,999
+C13                       60,000 or above
+C19                       Refused/ DK
+
+Q255                      H3.
+C0                        None
+C9                        D.K.
+Q256       5              H4.
+Q257                      H5.
+C0                        At least once in last week
+C1                        A week before
+C2                        2 weeks before
+C3                        3 weeks before
+C4                        4 weeks before
+C5                        2 months before
+C6                        3 months before
+C7                        4-6 months before
+C8                        A year ago
+C9                        More than a year
+C10                       Never taken MTR
+C19                       Forgot
+
+Q258       256            H6.
+Q259       256            H7.
+Q260       256            H8.
+Q261       256            H9.
+
+Q262       8              H9a1.
+Q263       8              H9a2.
+Q264       8              H9a3.
+Q265       8              H9a4.
+Q266       8              H9a5.
+Q267       8              H9a6.
+Q268       8              H9a7.
+Q269       8              H9a8.
+Q270       8              H9a9.
+Q271       8              H9a10.
+
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 10 
+11:15:26 16/01/2014
+
+Q272ET                    ID
+
+Q273U           8         Date
+Q274U                     Time
+
+Q275                      G3.
+C1                        Yes
+C2                        No
+Q276FM          3         G3a.
+C99
+Q277                      G3b.
+C5
+Q278       277            G4.
+
+
+Q<01>ET
+279/499
+
+Q500ET                    Cancellation.
+*C1                        ;=0(17284)
+
+
+Q501R                     Date of interview
+C1   U                    20130709                                                                                                                                                                                                                              
+C2   U                    20130710                                                                                                                                                                                                                              
+C3   U                    20130711                                                                                                                                                                                                                              
+C4   U                    20130712                                                                                                                                                                                                                              
+C5   U                    20130713                                                                                                                                                                                                                              
+C6   U                    20130716                                                                                                                                                                                                                              
+C7   U                    20130717                                                                                                                                                                                                                              
+C8   U                    20130718                                                                                                                                                                                                                              
+C9   U                    20130719                                                                                                                                                                                                                              
+C10  U                    20130720                                                                                                                                                                                                                              
+C11  U                    20130723                                                                                                                                                                                                                              
+C12  U                    20130724                                                                                                                                                                                                                              
+C13  U                    20130725                                                                                                                                                                                                                              
+C14  U                    20130726                                                                                                                                                                                                                              
+C15  U                    20130727                                                                                                                                                                                                                              
+C16  U                    20130730                                                                                                                                                                                                                              
+C17  U                    20130731                                                                                                                                                                                                                              
+C18  U                    20130801                                                                                                                                                                                                                              
+C19  U                    20130802                                                                                                                                                                                                                              
+C20  U                    20130803                                                                                                                                                                                                                              
+C21  U                    20130806                                                                                                                                                                                                                              
+C22  U                    20130807                                                                                                                                                                                                                              
+C23  U                    20130808                                                                                                                                                                                                                              
+C24  U                    20130809                                                                                                                                                                                                                              
+C25  U                    20130810                                                                                                                                                                                                                              
+C26  U                    20130813                                                                                                                                                                                                                              
+C27  U                    20130814                                                                                                                                                                                                                              
+C28  U                    20130816                                                                                                                                                                                                                              
+C29  U                    20130817                                                                                                                                                                                                                              
+=    =273  0
+
+Q502ET
+=    =
+
+Q503                      Yesterday Trip
+C0                        None
+C1                        1 trip
+C2                        2 trips
+C3                        3 trips
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 11 
+11:15:26 16/01/2014
+
+C4                        4 trips
+C5                        5 trips
+C6                        6 trips
+C7                        7 trips
+C8                        8 trips
+C9                        9 trips
+C10                       10 trips
+C11  =1\10                With trips
+=1                        19(1)+41(2)
+=2                        41(1)+63(2)
+=3                        63(1)+85(2)
+=4                        85(1)+107(2)
+=5                        107(1)+129(2)
+=6                        129(1)+151(2)
+=7                        151(1)+173(2)
+=8                        173(1)+195(2)
+=9                        195(1)+217(2)
+=10                       217(1)
+=   0/                   Z
+Q504S                     Part C
+C1                        Trip 1
+C2                        Trip 2
+C3                        Trip 3
+C4                        Trip 4
+C5                        Trip 5
+C6                        Trip 6
+C7                        Trip 7
+C8                        Trip 8
+C9                        Trip 9
+C10                       Trip 10
+=<01>A                    503(<01>/10)
+1/10
+1/10
+
+Q505U           6         C3.
+=    =20*100X             503(1/10)
+=    A
+=    =42*100X             503(2/10)
+=    A
+=    =64*100X             503(3/10)
+=    A
+=    =86*100X             503(4/10)
+=    A
+=    =108*100X            503(5/10)
+=    A
+=    =130*100X            503(6/10)
+=    A
+=    =152*100X            503(7/10)
+=    A
+=    =174*100X            503(8/10)
+=    A
+=    =196*100X            503(9/10)
+=    A
+=    =218*100X            503(10)
+=    A
+Q506                      C4b.
+C20
+=    =21                  503(1/10)
+=    A
+=    =43                  503(2/10)
+=    A
+=    =65                  503(3/10)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 12 
+11:15:26 16/01/2014
+
+=    A
+=    =87                  503(4/10)
+=    A
+=    =109                 503(5/10)
+=    A
+=    =131                 503(6/10)
+=    A
+=    =153                 503(7/10)
+=    A
+=    =175                 503(8/10)
+=    A
+=    =197                 503(9/10)
+=    A
+=    =219                 503(10)
+=    A
+Q507       9              C4a.
+=    =22                  503(1/10)
+=    A
+=    =44                  503(2/10)
+=    A
+=    =66                  503(3/10)
+=    A
+=    =88                  503(4/10)
+=    A
+=    =110                 503(5/10)
+=    A
+=    =132                 503(6/10)
+=    A
+=    =154                 503(7/10)
+=    A
+=    =176                 503(8/10)
+=    A
+=    =198                 503(9/10)
+=    A
+=    =220                 503(10)
+=    A
+Q508       13             C4c.
+=    =23                  503(1/10)
+=    A
+=    =45                  503(2/10)
+=    A
+=    =67                  503(3/10)
+=    A
+=    =89                  503(4/10)
+=    A
+=    =111                 503(5/10)
+=    A
+=    =133                 503(6/10)
+=    A
+=    =155                 503(7/10)
+=    A
+=    =177                 503(8/10)
+=    A
+=    =199                 503(9/10)
+=    A
+=    =221                 503(10)
+=    A
+Q509       14             C4d.
+=   1/6    24   1         22(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=   8/                   Z503(1/10)
+=    A
+=   1/6    46   1         44(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 13 
+11:15:26 16/01/2014
+
+=8   /                   Z503(2/10)
+=    A
+=   1/6    68   1         66(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+= 8  /                   Z503(3/10)
+=    A
+=   1/6    90   1         88(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=  8 /                   Z503(4/10)
+=    A
+=   1/6    112  1         110(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=   8/                   Z503(5/10)
+=    A
+=   1/6    134  1         132(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=8   /                   Z503(6/10)
+=    A
+=   1/6    156  1         154(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+= 8  /                   Z503(7/10)
+=    A
+=   1/6    178  1         176(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=  8 /                   Z503(8/10)
+=    A
+=   1/6    200  1         198(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=   8/                   Z503(9/10)
+=    A
+=   1/6    222  1         220(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=8   /                   Z503(10/10)
+=    A
+
+*=    =24                  503(1/10)
+*=    A
+*=    =46                  503(2/10)
+*=    A
+*=    =68                  503(3/10)
+*=    A
+*=    =90                  503(4/10)
+*=    A
+*=    =112                 503(5/10)
+*=    A
+*=    =134                 503(6/10)
+*=    A
+*=    =156                 503(7/10)
+*=    A
+*=    =178                 503(8/10)
+*=    A
+*=    =200                 503(9/10)
+*=    A
+*=    =222                 503(10)
+*=    A
+Q510       15             C4e.
+=    =25                  503(1/10)
+=    A
+=    =47                  503(2/10)
+=    A
+=    =69                  503(3/10)
+=    A
+=    =91                  503(4/10)
+=    A
+=    =113                 503(5/10)
+=    A
+=    =135                 503(6/10)
+=    A
+=    =157                 503(7/10)
+=    A
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 14 
+11:15:26 16/01/2014
+
+=    =179                 503(8/10)
+=    A
+=    =201                 503(9/10)
+=    A
+=    =223                 503(10)
+=    A
+Q511       16             C4f.
+=    =26                  503(1/10)
+=    A
+=    =48                  503(2/10)
+=    A
+=    =70                  503(3/10)
+=    A
+=    =92                  503(4/10)
+=    A
+=    =114                 503(5/10)
+=    A
+=    =136                 503(6/10)
+=    A
+=    =158                 503(7/10)
+=    A
+=    =180                 503(8/10)
+=    A
+=    =202                 503(9/10)
+=    A
+=    =224                 503(10)
+=    A
+Q512       506            C5b.
+=    =27                  503(1/10)
+=    A
+=    =49                  503(2/10)
+=    A
+=    =71                  503(3/10)
+=    A
+=    =93                  503(4/10)
+=    A
+=    =115                 503(5/10)
+=    A
+=    =137                 503(6/10)
+=    A
+=    =159                 503(7/10)
+=    A
+=    =181                 503(8/10)
+=    A
+=    =203                 503(9/10)
+=    A
+=    =225                 503(10)
+=    A
+Q513       507            C5a.
+=    =28                  503(1/10)
+=    A
+=    =50                  503(2/10)
+=    A
+=    =72                  503(3/10)
+=    A
+=    =94                  503(4/10)
+=    A
+=    =116                 503(5/10)
+=    A
+=    =138                 503(6/10)
+=    A
+=    =160                 503(7/10)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 15 
+11:15:26 16/01/2014
+
+=    A
+=    =182                 503(8/10)
+=    A
+=    =204                 503(9/10)
+=    A
+=    =226                 503(10)
+=    A
+Q514       13             C5c.
+=    =29                  503(1/10)
+=    A
+=    =51                  503(2/10)
+=    A
+=    =73                  503(3/10)
+=    A
+=    =95                  503(4/10)
+=    A
+=    =117                 503(5/10)
+=    A
+=    =139                 503(6/10)
+=    A
+=    =161                 503(7/10)
+=    A
+=    =183                 503(8/10)
+=    A
+=    =205                 503(9/10)
+=    A
+=    =227                 503(10)
+=    A
+Q515       14             C5d.
+=   1/6    30   1         28(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+= 8  /                   Z503(1/10)
+=    A
+=   1/6    52   1         50(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=  8 /                   Z503(2/10)
+=    A
+=   1/6    74   1         72(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=   8/                   Z503(3/10)
+=    A
+=   1/6    96   1         94(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=8   /                   Z503(4/10)
+=    A
+=   1/6    118  1         116(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+= 8  /                   Z503(5/10)
+=    A
+=   1/6    140  1         138(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=  8 /                   Z503(6/10)
+=    A
+=   1/6    162  1         160(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=   8/                   Z503(7/10)
+=    A
+=   1/6    184  1         182(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=8   /                   Z503(8/10)
+=    A
+=   1/6    206  1         204(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+= 8  /                   Z503(9/10)
+=    A
+=   1/6    228  1         226(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=  8 /                   Z503(10/10)
+=    A
+
+*=    =30                  503(1/10)
+*=    A
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 16 
+11:15:26 16/01/2014
+
+*=    =52                  503(2/10)
+*=    A
+*=    =74                  503(3/10)
+*=    A
+*=    =96                  503(4/10)
+*=    A
+*=    =118                 503(5/10)
+*=    A
+*=    =140                 503(6/10)
+*=    A
+*=    =162                 503(7/10)
+*=    A
+*=    =184                 503(8/10)
+*=    A
+*=    =206                 503(9/10)
+*=    A
+*=    =228                 503(10)
+*=    A
+Q516       15             C5e.
+=    =31                  503(1/10)
+=    A
+=    =53                  503(2/10)
+=    A
+=    =75                  503(3/10)
+=    A
+=    =97                  503(4/10)
+=    A
+=    =119                 503(5/10)
+=    A
+=    =141                 503(6/10)
+=    A
+=    =163                 503(7/10)
+=    A
+=    =185                 503(8/10)
+=    A
+=    =207                 503(9/10)
+=    A
+=    =229                 503(10)
+=    A
+Q517       16             C5f.
+=    =32                  503(1/10)
+=    A
+=    =54                  503(2/10)
+=    A
+=    =76                  503(3/10)
+=    A
+=    =98                  503(4/10)
+=    A
+=    =120                 503(5/10)
+=    A
+=    =142                 503(6/10)
+=    A
+=    =164                 503(7/10)
+=    A
+=    =186                 503(8/10)
+=    A
+=    =208                 503(9/10)
+=    A
+=    =230                 503(10)
+=    A
+Q518                      C6_1.
+C21
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 17 
+11:15:26 16/01/2014
+
+=   1/21   33   1         503(1/10)
+=    A
+=   1/21   55   1         503(2/10)
+=    /                   Z503(2/10)
+=    A
+=   1/21   77   1         503(3/10)
+=    /                   Z503(3/10)
+=    A
+=   1/21   99   1         503(4/10)
+=    /                   Z503(4/10)
+=    A
+=   1/21   121  1         503(5/10)
+=    /                   Z503(5/10)
+=    A
+=   1/21   143  1         503(6/10)
+=    /                   Z503(6/10)
+=    A
+=   1/21   165  1         503(7/10)
+=    /                   Z503(7/10)
+=    A
+=   1/21   187  1         503(8/10)
+=    /                   Z503(8/10)
+=    A
+=   1/21   209  1         503(9/10)
+=    /                   Z503(9/10)
+=    A
+=   1/21   231  1         503(10)
+=    A
+Q519       518            C6_2.
+=   1/21   34   1         503(1/10)
+=    /                   Z503(1/10)
+=    A
+=   1/21   56   1         503(2/10)
+=    /                   Z503(2/10)
+=    A
+=   1/21   78   1         503(3/10)
+=    /                   Z503(3/10)
+=    A
+=   1/21   100  1         503(4/10)
+=    /                   Z503(4/10)
+=    A
+=   1/21   122  1         503(5/10)
+=    /                   Z503(5/10)
+=    A
+=   1/21   144  1         503(6/10)
+=    /                   Z503(6/10)
+=    A
+=   1/21   166  1         503(7/10)
+=    /                   Z503(7/10)
+=    A
+=   1/21   188  1         503(8/10)
+=    /                   Z503(8/10)
+=    A
+=   1/21   210  1         503(9/10)
+=    /                   Z503(9/10)
+=    A
+=   1/21   232  1         503(10)
+=    /                   Z503(10)
+=    A
+Q520       518            C6_3.
+=   1/21   35   1         503(1/10)
+=    /                   Z503(1/10)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 18 
+11:15:26 16/01/2014
+
+=    A
+=   1/21   57   1         503(2/10)
+=    /                   Z503(2/10)
+=    A
+=   1/21   79   1         503(3/10)
+=    /                   Z503(3/10)
+=    A
+=   1/21   101  1         503(4/10)
+=    /                   Z503(4/10)
+=    A
+=   1/21   123  1         503(5/10)
+=    /                   Z503(5/10)
+=    A
+=   1/21   145  1         503(6/10)
+=    /                   Z503(6/10)
+=    A
+=   1/21   167  1         503(7/10)
+=    /                   Z503(7/10)
+=    A
+=   1/21   189  1         503(8/10)
+=    /                   Z503(8/10)
+=    A
+=   1/21   211  1         503(9/10)
+=    /                   Z503(9/10)
+=    A
+=   1/21   233  1         503(10)
+=    /                   Z503(10)
+=    A
+Q521       518            C6_4.
+=   1/21   36   1         503(1/10)
+=    /                   Z503(1/10)
+=    A
+=   1/21   58   1         503(2/10)
+=    /                   Z503(2/10)
+=    A
+=   1/21   80   1         503(3/10)
+=    /                   Z503(3/10)
+=    A
+=   1/21   102  1         503(4/10)
+=    /                   Z503(4/10)
+=    A
+=   1/21   124  1         503(5/10)
+=    /                   Z503(5/10)
+=    A
+=   1/21   146  1         503(6/10)
+=    /                   Z503(6/10)
+=    A
+=   1/21   168  1         503(7/10)
+=    /                   Z503(7/10)
+=    A
+=   1/21   190  1         503(8/10)
+=    /                   Z503(8/10)
+=    A
+=   1/21   212  1         503(9/10)
+=    /                   Z503(9/10)
+=    A
+=   1/21   234  1         503(10)
+=    /                   Z503(10)
+=    A
+Q522                      C8a.
+C999
+=    =37*60X+38           503(1/10)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 19 
+11:15:26 16/01/2014
+
+=    A
+=    =59*60X+60           503(2/10)
+=    A
+=    =81*60X+82           503(3/10)
+=    A
+=    =103*60X+104         503(4/10)
+=    A
+=    =125*60X+126         503(5/10)
+=    A
+=    =147*60X+148         503(6/10)
+=    A
+=    =169*60X+170         503(7/10)
+=    A
+=    =191*60X+192         503(8/10)
+=    A
+=    =213*60X+214         503(9/10)
+=    A
+=    =235*60X+236         503(10)
+=    A
+Q523U           5         C8b.
+=    =39                  503(1/10)+39(N99)
+=    =999X                503(1/10)+39(99)
+=    A
+=    =61                  503(2/10)+61(N99)
+=    =999X                503(2/10)+61(99)
+=    A
+=    =83                  503(3/10)+83(N99)
+=    =999X                503(3/10)+83(99)
+=    A
+=    =105                 503(4/10)+105(N99)
+=    =999X                503(4/10)+105(99)
+=    A
+=    =127                 503(5/10)+127(N99)
+=    =999X                503(5/10)+127(99)
+=    A
+=    =149                 503(6/10)+149(N99)
+=    =999X                503(6/10)+149(99)
+=    A
+=    =171                 503(7/10)+171(N99)
+=    =999X                503(7/10)+171(99)
+=    A
+=    =193                 503(8/10)+193(N99)
+=    =999X                503(8/10)+193(99)
+=    A
+=    =215                 503(9/10)+215(N99)
+=    =999X                503(9/10)+215(99)
+=    A
+=    =237                 503(10)+237(N99)
+=    =999X                503(10)+237(99)
+=    A
+Q524FM          2         C9.
+C1                        No choice/ The only way to do (SA only)
+C2                        Arranged by others/ Accompany friends (SA only)
+C3                        Direct / No feeder is required/ The most direct route
+C4                        No need to walk / Nearby my O/D
+C5                        The most familiar route
+C10                       Reliable service/ Punctual
+C11                       In a hurry/ Fast
+C12                       Frequent schedule / Can access in short time
+C13                       Overnight services/ Schedule during peak hour
+C14                       Service hours fit my schedule
+C15                       Safe
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 20 
+11:15:27 16/01/2014
+
+C20                       With radio/ TV program
+C21                       Provide facilities for disable
+C29                       View available/Scene seeing throughout the journey
+C30                       Comfortable journey
+C31                       Less crowded
+C32                       Seat available
+C33                       Air conditioned
+C37                       Value for money/ Cheaper fare
+C38                       With special offer
+C45                       Have my own car
+C46                       Train service/ system failure
+C50                       Others
+
+=   1/50   40   1         503(1/10)
+=    A
+=   1/50   62   1         503(2/10)
+=    A
+=   1/50   84   1         503(3/10)
+=    A
+=   1/50   106  1         503(4/10)
+=    A
+=   1/50   128  1         503(5/10)
+=    A
+=   1/50   150  1         503(6/10)
+=    A
+=   1/50   172  1         503(7/10)
+=    A
+=   1/50   194  1         503(8/10)
+=    A
+=   1/50   216  1         503(9/10)
+=    A
+=   1/50   238  1         503(10)
+=    A
+
+Q525                      Trip Time GP.
+C9
+=1                        503(1/10)+20(0.2/759)
+=2                        503(1/10)+20(800/959)
+=3                        503(1/10)+20(1000/1259)
+=4                        503(1/10)+20(1300/1629)
+=5                        503(1/10)+20(1630/1929)
+=6                        503(1/10)+20(1930/2359)
+=9                        503(1/10)+20(1)
+=    /                   Z503(1/10)
+=    A
+=1                        503(2/10)+42(0.2/759)
+=2                        503(2/10)+42(800/959)
+=3                        503(2/10)+42(1000/1259)
+=4                        503(2/10)+42(1300/1629)
+=5                        503(2/10)+42(1630/1929)
+=6                        503(2/10)+42(1930/2359)
+=9                        503(2/10)+42(1)
+=    /                   Z503(2/10)
+=    A
+=1                        503(3/10)+64(0.2/759)
+=2                        503(3/10)+64(800/959)
+=3                        503(3/10)+64(1000/1259)
+=4                        503(3/10)+64(1300/1629)
+=5                        503(3/10)+64(1630/1929)
+=6                        503(3/10)+64(1930/2359)
+=9                        503(3/10)+64(1)
+=    /                   Z503(3/10)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 21 
+11:15:27 16/01/2014
+
+=    A
+=1                        503(4/10)+86(0.2/759)
+=2                        503(4/10)+86(800/959)
+=3                        503(4/10)+86(1000/1259)
+=4                        503(4/10)+86(1300/1629)
+=5                        503(4/10)+86(1630/1929)
+=6                        503(4/10)+86(1930/2359)
+=9                        503(4/10)+86(1)
+=    /                   Z503(4/10)
+=    A
+=1                        503(5/10)+108(0.2/759)
+=2                        503(5/10)+108(800/959)
+=3                        503(5/10)+108(1000/1259)
+=4                        503(5/10)+108(1300/1629)
+=5                        503(5/10)+108(1630/1929)
+=6                        503(5/10)+108(1930/2359)
+=9                        503(5/10)+108(1)
+=    /                   Z503(5/10)
+=    A
+=1                        503(6/10)+130(0.2/759)
+=2                        503(6/10)+130(800/959)
+=3                        503(6/10)+130(1000/1259)
+=4                        503(6/10)+130(1300/1629)
+=5                        503(6/10)+130(1630/1929)
+=6                        503(6/10)+130(1930/2359)
+=9                        503(6/10)+130(1)
+=    /                   Z503(6/10)
+=    A
+=1                        503(7/10)+152(0.2/759)
+=2                        503(7/10)+152(800/959)
+=3                        503(7/10)+152(1000/1259)
+=4                        503(7/10)+152(1300/1629)
+=5                        503(7/10)+152(1630/1929)
+=6                        503(7/10)+152(1930/2359)
+=9                        503(7/10)+152(1)
+=    /                   Z503(7/10)
+=    A
+=1                        503(8/10)+174(0.2/759)
+=2                        503(8/10)+174(800/959)
+=3                        503(8/10)+174(1000/1259)
+=4                        503(8/10)+174(1300/1629)
+=5                        503(8/10)+174(1630/1929)
+=6                        503(8/10)+174(1930/2359)
+=9                        503(8/10)+174(1)
+=    /                   Z503(8/10)
+=    A
+=1                        503(9/10)+196(0.2/759)
+=2                        503(9/10)+196(800/959)
+=3                        503(9/10)+196(1000/1259)
+=4                        503(9/10)+196(1300/1629)
+=5                        503(9/10)+196(1630/1929)
+=6                        503(9/10)+196(1930/2359)
+=9                        503(9/10)+196(1)
+=    /                   Z503(9/10)
+=    A
+=1                        503(10)+218(0.2/759)
+=2                        503(10)+218(800/959)
+=3                        503(10)+218(1000/1259)
+=4                        503(10)+218(1300/1629)
+=5                        503(10)+218(1630/1929)
+=6                        503(10)+218(1930/2359)
+=9                        503(10)+218(1)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 22 
+11:15:27 16/01/2014
+
+=    /                   Z503(10)
+=    A
+
+Q526       509            C4d Finalized
+=   1/6    509  1
+=   5/     509  8
+
+Q527U                     Combined Origin Walk/Feed
+*C2
+=1                        526(1/4)
+=2                        526(5)
+=    =" "                 526(6)
+
+Q528       515            C5d Finalized
+=   1/6    515  1
+=   5/     515  8
+
+Q529U                1    Combined Destination Walk/Feed
+=1                        528(1/4)
+=2                        528(5)
+=    =" "                 528(6)
+
+Q530                      Final Trip Purpose
+C1                        Home based work trip
+C2                        Home based school trip
+C3                        Home based other trip
+C4                        Non home based trip
+=1                        (506(1)+512(2/3)).(506(2/3)+512(1))
+=2                        (506(1)+512(4)).(506(4)+512(1))
+=3                        (506(1)+512(5/20)).(506(5/20)+512(1))
+=4                        506(N0+N1)+512(N0+N1)
+
+Q531                      Final MTR Walk
+C2
+=0                        527(1)+529(1)
+=1                        (527(1)+529(2)).(527(2)+529(1))
+=2                        527(2)+529(2)
+
+Q532M      518            Local Main Mode1 (Count)
+=   1/21   <01>.1
+518/521
+Q533       518            Local Main Mode1
+=2                        532(1/2)
+=3                        532(3+N1/2)
+=5                        532(5.16)+532(N1/3)
+=4                        532(4+N1/3+N5+N16)
+=9                        532(9+N1/5+N16)
+=6                        532(6+N1/5+N9+N16)
+=7                        532(7+N1/6+N9+N16)
+=8                        532(8+N1/7+N9+N16)
+=21                       532(21+N1/9+N16)
+=10                       532(10+N1/9+N16+N21)
+=11                       532(11+N1/10+N16+N21)
+=12                       532(12+N1/11+N16+N21)
+=13                       532(13+N1/12+N16+N21)
+=14                       532(14+N1/13+N16+N21)
+=15                       532(15+N1/14+N16+N21)
+=17                       532(17+N1/16+N21)
+=19                       532(19+N1/17+N21)
+=18                       532(18+N1/17+N19+N21)
+=20                       532(20+N1/19+N21)
+
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 23 
+11:15:27 16/01/2014
+
+Q534M      518            Local No of modes
+=   1/21   <01> 1
+518/521
+Q535                      Local No of modes - Count
+C4
+=                         534U(1/21)
+
+Q536U           6         Journey cost in cents
+=    =523*10X             523(N999)
+=    =" "                 523(999)
+
+Q537                      C4a GP2
+C8
+=1                        507(1/28.193)
+=2                        507(51/99.101/116.151/156)
+=3                        507(117/146.186.190)
+=4                        507(161/185.187/189.191)
+=5                        507(157/159.192.194)
+=6                        507(160)
+=7                        507(202/204)
+=8                        507(201)
+Q538       537            C5a GP2
+=1                        513(1/28.193)
+=2                        513(51/99.101/116.151/156)
+=3                        513(117/146.186.190)
+=4                        513(161/185.187/189.191)
+=5                        513(157/159.192.194)
+=6                        513(160)
+=7                        513(202/204)
+=8                        513(201)
+Q539                      Movement 3
+C19
+=1                        537(1)+538(1)
+=2                        (537(1)+538(2)).(537(2)+538(1))
+=3                        (537(1)+538(3)).(537(3)+538(1))
+=4                        (537(1)+538(4)).(537(4)+538(1))
+=5                        (537(1)+538(5/7)).(537(5/7)+538(1))
+=7                        537(2)+538(2)
+=8                        (537(2)+538(3)).(537(3)+538(2))
+=9                        (537(2)+538(4)).(537(4)+538(2))
+=10                       (537(2)+538(5/7)).(537(5/7)+538(2))
+=12                       537(3)+538(3)
+=13                       537(4)+538(4)
+=14                       (537(3)+538(4)).(537(4)+538(3))
+=15                       537(5/6)+538(5/6)
+=15                       (537(3/4)+538(5/6)).(537(5/6)+538(3/4))
+=15                       (537(7)+538(3/6)).(537(3/6)+538(7))
+=19                       537(8).538(8)
+Q540       539            Movement 2
+=   1/2    539  1
+=6                        539(3/5)
+=   7/     539  7
+=11                       539(8/10)
+=16                       539(12/15)
+=19                       539(19)
+Q541                      Final Movement
+C3
+=   1/     539  1
+=2                        539(2/5)
+=3                        539(7/18)
+
+Q542                      C4a GP1
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 24 
+11:15:27 16/01/2014
+
+C30
+=1                        507(1/3)
+=2                        507(4/8)
+=3                        507(9/11.13)
+=4                        507(12.14/18)
+=5                        507(19/23)
+=6                        507(24)
+=7                        507(25/28)
+=8                        507(51/58)
+=9                        507(70/74)
+=10                       507(75/79)
+=11                       507(59.80/83)
+=12                       507(84/90)
+=13                       507(91/99)
+=14                       507(101/109)
+=15                       507(110/113.116)
+=16                       507(114/115)
+=17                       507(134/146)
+=18                       507(117/124.131.133.186.190)
+=19                       507(125/130.132)
+=20                       507(151/156)
+=21                       507(157/159)
+=22                       507(166/176)
+=23                       507(162/165)
+=24                       507(161.177/181)
+=25                       507(182/184)
+=26                       507(185.187/189.191)
+=27                       507(160)
+=28                       507(192/194)
+=29                       507(202/204)
+=30                       507(201)
+
+Q543       542            C5a GP1
+=1                        513(1/3)
+=2                        513(4/8)
+=3                        513(9/11.13)
+=4                        513(12.14/18)
+=5                        513(19/23)
+=6                        513(24)
+=7                        513(25/28)
+=8                        513(51/58)
+=9                        513(70/74)
+=10                       513(75/79)
+=11                       513(59.80/83)
+=12                       513(84/90)
+=13                       513(91/99)
+=14                       513(101/109)
+=15                       513(110/113.116)
+=16                       513(114/115)
+=17                       513(134/146)
+=18                       513(117/124.131.133.186.190)
+=19                       513(125/130.132)
+=20                       513(151/156)
+=21                       513(157/159)
+=22                       513(166/176)
+=23                       513(162/165)
+=24                       513(161.177/181)
+=25                       513(182/184)
+=26                       513(185.187/189.191)
+=27                       513(160)
+=28                       513(192/194)
+=29                       513(202/204)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 25 
+11:15:27 16/01/2014
+
+=30                       513(201)
+
+Q544                      Local Main Mode2
+C21
+=2                        532(1/2)
+=9                        532(9+N1/2)
+=21                       532(21+N1/2+N9)
+=3                        532(3+N1/2+N9+N21)
+=5                        532(5.16)+532(N1/3+N9+N21)
+=4                        532(4+N1/3+N5+N9+N16+N21)
+=6                        532(6+N1/5+N9+N16+N21)
+=7                        532(7+N1/6+N9+N16+N21)
+=8                        532(8+N1/7+N9+N16+N21)
+=10                       532(10+N1/9+N16+N21)
+=11                       532(11+N1/10+N16+N21)
+=12                       532(12+N1/11+N16+N21)
+=13                       532(13+N1/12+N16+N21)
+=14                       532(14+N1/13+N16+N21)
+=15                       532(15+N1/14+N16+N21)
+=17                       532(17+N1/16+N21)
+=19                       532(19+N1/17+N21)
+=18                       532(18+N1/17+N19+N21)
+=20                       532(20+N1/19+N21)
+
+R504  544
+
+
+Q545ET
+Q546ET
+
+Q547                      Main MTR
+C2
+=   2/         A          532(1.2)
+
+
+Q548M                15   Trip
+C1                        With trips yesterday
+C2                        Any MTR yesterday
+C3   =1-2                 No MTR yesterday
+=1                        503(1/10)
+=   2/         .          M504(1/10)+<01>(1/2)
+518/521
+
+Q549       7              A2b.
+=1                        7(1)
+=99                       7(99)
+=   1/99   261  1         7(N1+N99)
+
+Q550       7              H9.
+=   1/99   549  1
+Q551       8              A3New.
+=   1/99   8    1
+
+Q552       14             B2.
+=   1/6    14   1         9(4/6.8/15.17/24.51.54.58/59.70/73.75/76.78.80/85.87/98.101/104.106/107.110/112.114/115.117/126.128.130.135/136.139/146.151/159.162/168.170/175.180/181.183.187.190/191)
+=   8/                   Z
+
+Q553M                     Wave
+C1                        Total;=
+C26                       Wave 1;=
+
+Q554ET
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 26 
+11:15:27 16/01/2014
+
+Q555ET
+
+Q556                      Home Area GP1
+C30
+=1                        9(1/3)
+=2                        9(4/8)
+=3                        9(9/11.13)
+=4                        9(12.14/18)
+=5                        9(19/23)
+=6                        9(24)
+=7                        9(25/28)
+=8                        9(51/58)
+=9                        9(70/74)
+=10                       9(75/79)
+=11                       9(59.80/83)
+=12                       9(84/90)
+=13                       9(91/99)
+=14                       9(101/109)
+=15                       9(110/113.116)
+=16                       9(114/115)
+=17                       9(134/146)
+=18                       9(117/124.131.133.186.190)
+=19                       9(125/130.132)
+=20                       9(151/156)
+=21                       9(157/159)
+=22                       9(166/176)
+=23                       9(162/165)
+=24                       9(161.177/181)
+=25                       9(182/184)
+=26                       9(185.187/189.191)
+=27                       9(160)
+=28                       9(192/194)
+=29                       9(202/204)
+=30                       9(201)
+Q557       556            Home Area GP1 of case
+=   1/30   556  1
+
+Q558                      Home Area GP2
+C8
+=1                        9(1/28.193)
+=2                        9(51/99.101/116.151/156)
+=3                        9(117/146.186.190)
+=4                        9(161/185.187/189.191)
+=5                        9(157/159.192.194)
+=6                        9(160)
+=7                        9(202/204)
+=8                        9(201)
+
+*=1                        556(1/7)
+*=2                        556(8/16.20)
+*=3                        556(17/19)
+*=4                        556(22/26)
+*=5                        556(21)
+*=6                        556(27)
+*=7                        556(29)
+*=8                        556(30)
+Q559       558            Home area GP2 of case
+=   1/8    558  1
+
+Q560                      Wdy (1)/ Wk-end (6)
+C7
+=1
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 27 
+11:15:27 16/01/2014
+
+
+Q561ET                    WK-end (7)
+
+Q562                      Gender
+C2
+=1                        8(1/11)
+=2                        8(14/24)
+Q563       562            Gender of case
+=   1/2    562  1
+
+Q564                      Age
+C11
+=   1/11   8    1
+=   1/11   8    14
+Q565       564            Age of case
+=   1/11   564  1
+
+Q566                      Age GP1
+C11
+=1                        8(1.14)
+=3                        8(2/3.15/16)
+=5                        8(4/5.17/18)
+=   6/11   564  6
+Q567       566            Age GP2
+=1                        8(1.14)
+=3                        8(2/3.15/16)
+=5                        8(4/5.17/18)
+=7                        8(6/7.19/20)
+=   8/11   564  8
+Q568       566            Age GP1 of case
+=   1/11   566  1
+Q569       566            Age GP2 of case
+=   1/11   567  1
+
+Q570       13             B1-Home nearest MTR of case
+=   1/999  13   1
+
+Q571       14             B2 Distance MTR
+=   1/8    14   1
+Q572       14             B2 Revised of case
+=   1/8    14   1
+
+Q573                      Made trip or not
+C1
+=0                        503(0)
+=1                        503(N0)
+Q574       573            Made trip of case
+=   0/1    573  0
+
+Q575                      H1 Occup GP
+C99
+=   7/10   251  7
+=12                       251(1/6.11)
+=99                       251(19)
+
+Q576       575            H1 Occup GP of case
+=   1/99   575  1
+
+Q577                      H2a HI GP
+C19
+=3                        253(1/3)
+=5                        253(4/5)
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 28 
+11:15:27 16/01/2014
+
+=   6/19   253  6
+Q578       577            H2a HI GP of case
+=   1/19   577  1
+
+Q579       254            H2b of case
+=   1/19   254  1
+Q580       254            H2b PI GP
+=   1/     254  1
+=4                        254(2/4)
+=   5/     254  5
+=7                        254(6/7)
+=   8/11   254  8
+=13                       254(12/13)
+=  19/     254  19
+Q581       580            H2b PI Group of case
+=   1/19   580  1
+
+Q582                      Person travelled in a week
+C1
+=1                        256(N0+N99)
+Q583       256            H4 MTR Freq of case
+=    =256
+Q584       256            H4 MTR Freq GP1
+=   0/4    256  0
+=5                        256(5/7)
+=6                        256(8/10)
+=7                        256(11/14)
+=8                        256(15/20)
+=9                        256(21/98)
+=  99/     256  99
+Q585       256            H4 MTR Freq GP2
+=   1/     256  0
+=2                        256(1/4)
+=3                        256(5/7)
+=4                        256(8/14)
+=5                        256(15/20)
+=6                        256(21/98)
+=  99/     256  99
+Q586       585            H4 MTR Travel GP2 of case
+=    =585
+
+Q587U           10        H4 GP3
+=    ="Light"             585(1)
+=    ="Infrequent"        585(2/3)
+=    ="Frequent"          585(4/6)
+
+Q588U           10        H4 GP3 of case
+=    ="Light"             585(1)
+=    ="Infrequent"        585(2/3)
+=    ="Frequent"          585(4/6)
+
+Q589       258            H6 LR GP
+=   0/4    258  0
+=5                        258(5/7)
+=6                        258(8/10)
+=7                        258(11/14)
+=8                        258(15/20)
+=9                        258(21/98)
+=  99/     258  99
+
+Q590       259            H7 Low/LMC GP
+=   0/4    259  0
+\\EDP\SC90\DATA\MT\SP\J7775E1.SPC                                   Page: 29 
+11:15:27 16/01/2014
+
+=5                        259(5/10)
+=6                        259(11/20)
+=7                        259(21/30)
+=8                        259(31/60)
+=9                        259(61/98)
+=  99/     259  99
+
+Q591       260            H8 AEL GP
+=   0/5    260  0
+=6                        260(6/10)
+=7                        260(11/20)
+=8                        260(21/30)
+=9                        260(31/50)
+=10                       260(51/98)
+=  99/     260  99
+
+
+
+
